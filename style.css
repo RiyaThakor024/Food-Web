@@ -12,6 +12,9 @@ a {
     text-decoration: none;
 }
 
+html{
+    scroll-behavior: smooth;
+}
 .logo{
     width: 90px;
     height: 75px;
@@ -195,7 +198,7 @@ a {
     transform: scaleX(1);
 }
 /* Service box */
-.services-container{
+#services-container{
     margin: 10px;
 }
     #services{
